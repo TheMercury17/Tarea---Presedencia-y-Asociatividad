@@ -2,8 +2,8 @@
 
 **Universidad Sergio Arboleda**  
 **Escuela de Ciencias Exactas e Ingeniería**  
-**Materia:** Lenguajes de Programación  
-**Docente:** Lenguajes de Programación  
+**Materia:** Lenguajes de Programación y Transducción  
+**Docente:** Joaquin F. Sanchez  
 **Grupo 5:**
 - **Andrés Sebastián Coral Vallejo**
 - **Carol Arenas Cardona**
