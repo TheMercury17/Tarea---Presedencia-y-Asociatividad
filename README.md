@@ -8,8 +8,6 @@
 - **Andrés Sebastián Coral Vallejo**
 - **Carol Arenas Cardona**
 
-**Repositorio en GitHub:** [https://github.com/TheMercury17/Tarea---Presedencia-y-Asociatividad](https://github.com/TheMercury17/Tarea---Presedencia-y-Asociatividad)
-
 ---
 
 ## Tabla de Contenidos
