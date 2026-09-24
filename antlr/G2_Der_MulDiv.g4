@@ -2,6 +2,8 @@ grammar G2_Der_MulDiv;
 
 // =============================================================================
 // Gramática G2: Precedencia Estándar (*, / > +, -), Asociatividad por la Derecha
+// Universidad Sergio Arboleda - Lenguajes de Programación y Transducción
+// Docente: Joaquin F. Sanchez
 // Grupo 5: Andrés Sebastián Coral Vallejo y Carol Arenas Cardona
 // =============================================================================
 

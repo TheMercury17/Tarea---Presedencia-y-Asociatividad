@@ -2,6 +2,8 @@ grammar G3_Izq_SumRes;
 
 // =============================================================================
 // Gramática G3: Precedencia Invertida (+, - > *, /), Asociatividad por la Izquierda
+// Universidad Sergio Arboleda - Lenguajes de Programación y Transducción
+// Docente: Joaquin F. Sanchez
 // Grupo 5: Andrés Sebastián Coral Vallejo y Carol Arenas Cardona
 // =============================================================================
 
