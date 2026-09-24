@@ -1,6 +1,8 @@
 """
 Módulo de Evaluación y Formateo de Expresiones
-Universidad Sergio Arboleda - Lenguajes de Programación
+Universidad Sergio Arboleda
+Materia: Lenguajes de Programación y Transducción
+Docente: Joaquin F. Sanchez
 Grupo 5: Andrés Sebastián Coral Vallejo y Carol Arenas Cardona
 """
 

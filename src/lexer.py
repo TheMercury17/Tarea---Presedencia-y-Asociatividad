@@ -1,6 +1,8 @@
 """
 Módulo del Analizador Léxico (Lexer)
-Universidad Sergio Arboleda - Lenguajes de Programación
+Universidad Sergio Arboleda
+Materia: Lenguajes de Programación y Transducción
+Docente: Joaquin F. Sanchez
 Grupo 5: Andrés Sebastián Coral Vallejo y Carol Arenas Cardona
 """
 

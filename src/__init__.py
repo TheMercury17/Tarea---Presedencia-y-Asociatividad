@@ -1,5 +1,8 @@
 """
 Paquete src para Tarea - Precedencia y Asociatividad
+Universidad Sergio Arboleda
+Materia: Lenguajes de Programación y Transducción
+Docente: Joaquin F. Sanchez
 Grupo 5: Andrés Sebastián Coral Vallejo y Carol Arenas Cardona
 """
 
