@@ -1,7 +1,9 @@
 """
 Programa Principal de Demostración y Pruebas
 Tarea: Análisis de Precedencia y Asociatividad
-Universidad Sergio Arboleda - Lenguajes de Programación
+Universidad Sergio Arboleda
+Materia: Lenguajes de Programación y Transducción
+Docente: Joaquin F. Sanchez
 
 Grupo 5:
 - Andrés Sebastián Coral Vallejo
@@ -63,7 +65,8 @@ def imprimir_encabezado():
     print("=" * 80)
     print(" UNIVERSIDAD SERGIO ARBOLEDA - ESCUELA DE CIENCIAS EXACTAS E INGENIERÍA")
     print(" TALLER: ANÁLISIS DE PRECEDENCIA Y ASOCIATIVIDAD EN GRAMÁTICAS")
-    print(" Materia: Lenguajes de Programación")
+    print(" Materia: Lenguajes de Programación y Transducción")
+    print(" Docente: Joaquin F. Sanchez")
     print(" Grupo 5:")
     print("   - Andrés Sebastián Coral Vallejo")
     print("   - Carol Arenas Cardona")
