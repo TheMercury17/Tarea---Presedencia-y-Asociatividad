@@ -1,7 +1,13 @@
+# Archivos temporales y de compilación de Python
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Directorios y artefactos de ANTLR
 .antlr/
 *.tokens
 *.interp
+
+# Archivos del sistema
 .DS_Store
+Thumbs.db
